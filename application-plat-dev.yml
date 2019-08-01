@@ -2,4 +2,4 @@ server:
   port: 3001
 spring:
   application:
-    name: plat_server
+    name: plat-server

@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: product_server
+    name: product-server
   datasource:
     username: root
     password: 123456

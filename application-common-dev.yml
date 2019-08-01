@@ -5,4 +5,4 @@ spring:
   application:
     name: common-server
 server:
-  max-http-header-size: 10240000
+  max-http-header-size: 1024000

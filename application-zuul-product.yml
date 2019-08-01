@@ -8,5 +8,5 @@ zuul:
   routes:
     plat:
       path: /plat/** #平台服务的请求路径
-      serviceId: plat_server
+      serviceId: plat-server
   prefix: /services #请求前缀

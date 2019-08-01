@@ -3,4 +3,4 @@ server:
 
 spring:
   application:
-    name: common_server
+    name: common-server
